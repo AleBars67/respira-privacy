@@ -7,3 +7,4 @@ Tutte le sessioni sono salvate localmente sul dispositivo dell'utente.
 L'app non richiede registrazione né connessione internet.
 
 Per qualsiasi domanda: barsottia67@gmail.com
+ 
